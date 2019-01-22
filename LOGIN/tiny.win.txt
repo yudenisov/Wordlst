@@ -1,0 +1,14 @@
+Administrator
+root
+Admin
+admin
+sa
+administrator
+User
+user
+Info
+info
+mysql
+oracle
+Администратор
+
