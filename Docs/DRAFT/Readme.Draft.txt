@@ -14,6 +14,10 @@ WORDLST
 
 ƒерево каталогов папок следующее:
 
+/* ƒобавлено 15.02.2009
+* Docs Ч каталог с документацией (не словар€ми)
+* DRAFT Ч каталог с эталонными и рабочими словар€ми
+(ѕ–»ћ≈„јЌ»≈. Ёти два каталога Ч только дл€ разработчиков. ¬ы можете удалить их после инсталл€ции словарей.) */
 * PASSWD Ч в папку собраны пароли в кодировке OEM 866 (русска€ MS-DOS). »деально подходит дл€ программ перебора паролей из командной строки DOS и Windows.
 * UTF Ч в папке собраны те же пароли в кодировке UTF ѕодход€т дл€ подбора паролей в программах с графическим интерфейсом Linux и Windows.
 * WIN Ч в папке собраны пароли в кодировке Windows ANSI 1251 (русска€ Windows). ѕодход€т дл€ подбора паролей в устаревших программах Windows с графическим интерфейсом
@@ -53,6 +57,10 @@ Dictionaries are installed by default in the directory %PUB1%\WORDLIST and are l
 
 Catalog of folders tree is following:
 
+/* It is added 15.02.2009
+* Docs is the catalog with documentation (not dictionaries)
+* DRAFT is the catalog with reference and working dictionaries
+(NOTE. These two catalogs is only for developers. You can remove them after installation of dictionaries.) */
 * PASSWD Ч in the folder are collected passwords in OEM 866 encoding (the Russian of MS-DOS). Is ideal for programs of a password search from the command line of DOS and Windows.
 * UTF Ч in the folder are brought together the same passwords in UTF encoding/ They are suitable for а passwords search in programs with the graphic interface of Linux and Windows.
 * WIN Ч in the folder are brought together passwords in Windows ANSI 1251 encoding (the Russian Windows). They are suitable for a password search in outdated programs of Windows with the graphic interface
